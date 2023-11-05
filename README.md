@@ -1,2 +1,2 @@
-# Data-science-Project-
-Data management and pyhton Coding 
+# Deep Learning Projects 
+Mango Disease Leaf detection 
